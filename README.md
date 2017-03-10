@@ -4,4 +4,4 @@ Implemnted a content based recommender system.Tools useds are :
   *   Python and Jupyter notebook
   *   ML
 
-*Data provided by Fermedicius
+*Data provided by Fermedicius*
